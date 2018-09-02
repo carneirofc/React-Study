@@ -1,0 +1,7 @@
+If you’re learning React or creating a new single-page app, use Create React App.
+
+create-react-app app-name
+
+->Installs Dev- Server, Webpack, Babel etc...
+
+npm start // Starts dev server ...
